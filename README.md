@@ -16,7 +16,7 @@ The maze generator takes some options from a command line, creates a maze, and w
 - `-f -fps <number>`, FPS of the viewer. Default 10.
 - `-s -size <width> <height>`, width and height of the maze. Default 20x20.
 - `-m -mode <name>`, method used to generate the maze. One of 'random', 'depth', 'breadth'. Default 'depth'.
-- `-switch <chance>`, chance (0-100) that a head will switch to another branch. Default 10.
+- `-switch <chance>`, chance (0-100) that a head will switch to another branch. Only used in `random` mode. Default 10.
 - `-step <size>`, number of steps the head takes in any direction. Default 2.
 - `-h -heads <number>`, number of heads that create the maze. Default 1.
 - `-q`, quiet mode. No window showing maze generation.
