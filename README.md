@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img width="256" height="256" src="https://user-images.githubusercontent.com/47231175/116139849-c861d900-a6d6-11eb-848e-80278b8de08f.png">
+</p>
+
 # maze-generator-c
 Maze generator written in C using SDL2. If you have any trouble compiling or running this software, please [start an issue](https://github.com/Czespo/maze-generator-c/issues/new)!
 
@@ -40,3 +44,6 @@ With `-mode random` and `-switch 100`, the construction of the maze resembles [P
 
 ## Further reading
 - https://en.wikipedia.org/wiki/Maze_generation_algorithm
+
+## License
+Except where noted, licensed under [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) or any later version. See [`LICENSE`](https://github.com/Czespo/maze-generator-c/blob/main/LICENSE).
