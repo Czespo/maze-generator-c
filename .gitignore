@@ -1,0 +1,15 @@
+# Ignore Code::Blocks project stuff #
+*.cbp
+*.depend
+*.layout
+bin/
+obj/
+.objs/
+
+# Ignore executables #
+*.exe
+*.dll
+
+# Ignore other #
+db.c
+db.h
